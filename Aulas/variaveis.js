@@ -1,0 +1,21 @@
+var nome = "vilson Bartzike"
+console.log("Meu nome é:", nome, "\n");
+var idade = 17;
+console.log("Minha idade é:", idade, "Anos \n");
+ console.log("meu nome é:", nome, "e minha idade é:",idade,"anos\n");
+let salario = 2500.00;
+console.log("Meu salário é:", salario, "reais\n");
+let salarioComAumento = salario + 500.00;
+console.log("Meu salário com aumento é:", salarioComAumento, "reais\n");
+var aluno = "vilson";
+var rico = false;
+var estudante = true;
+console.log("O aluno é:", aluno, "\n");
+console.log("O aluno é rico?", rico, "\n");
+console.log("O aluno é estudante?", estudante, "\n");
+console.log(aluno === nome,"\n");
+let pesso = 10;
+let altura = 1.80;
+let imc = pesso / (altura * altura);
+console.log("O IMC é:", imc, "\n");
+console.log(imc > 20 === !true);
