@@ -1,0 +1,18 @@
+let x = 8;
+let y = 5;
+console.log("x=",x,"\n y=",y,"\n"); 
+let soma = y+x;
+console.log("A soma de x e y é:", soma, "\n");
+let subtracao = x- y;
+console.log("A subtração de x e y é:", subtracao, "\n");
+let multiplicacao = x*y;
+console.log("A multiplicação de x e y é:", multiplicacao, "\n");
+let divisao = x/y;
+console.log("A divisão de x e y é:", divisao, "\n");
+let sobra_divisao = x%y;
+console.log("O que sobrou da divisão foi:", sobra_divisao, "\n");
+console.log("somando numeros de 1 a 5", 1+2+3+4+5, "\n" );
+let valor1 = 12.5;
+let valor2 = 4.7;
+console.log("valor 1 é = ", valor1, "\n valor 2 é = ", valor2, "\n");
+console.log("a soma de", valor1, "+", valor2,"é=", valor1+valor2, "\n");
